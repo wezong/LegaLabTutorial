@@ -34,6 +34,22 @@ By working closely with patients and employing state-of-the-art techniques, we a
 
 ---
 
-<p align="center">
-  <strong>Welcome aboard, and let’s advance the science of memory together!</strong>
-</p>
+## Getting Started
+
+To get started in the Lega Lab:
+
+1. **Familiarize Yourself with the Lab:**
+   - Learn about ongoing projects and their objectives.
+   - Review research protocols and datasets relevant to our studies.
+
+2. **Explore Resources:**
+   - Dive into our documentation for detailed guidance on lab activities.
+   - Browse our code repositories to understand the structure and workflow.
+   - Read previous publications to gain insights into the lab’s research focus.
+
+3. **Engage with the Team:**
+   - Don’t hesitate to reach out to current lab members for guidance.
+   - Ask questions and participate in discussions—collaboration is key!
+
+Remember, the more you explore and engage, the smoother your transition into the lab will be. Welcome aboard!
+

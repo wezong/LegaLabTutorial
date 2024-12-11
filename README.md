@@ -50,6 +50,8 @@ To get started in the Lega Lab begin with the **lab-instructions** folder! In ad
 3. **Engage with the Team:**
    - Don’t hesitate to reach out to current lab members for guidance.
    - Ask questions and participate in discussions—collaboration is key!
+  
+---
 
 Remember, the more you explore and engage, the smoother your transition into the lab will be. Welcome aboard!
 

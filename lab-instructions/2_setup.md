@@ -102,7 +102,7 @@ BioHPC supports parallel computing for faster task execution.
      sbatch /work/[location_of_srunScript.sh]
      ```
 
-For more details, refer to the [BioHPC job submission tutorial](https://portal.biohpc.swmed.edu/intranet/sbatch/#/script).
+For more details, refer to the [BioHPC job submission tutorial](https://portal.biohpc.swmed.edu/content/guides/slurm/).
 
 ---
 

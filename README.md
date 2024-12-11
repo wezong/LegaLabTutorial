@@ -53,5 +53,7 @@ To get started in the Lega Lab begin with the **lab-instructions** folder! In ad
   
 ---
 
-Remember, the more you explore and engage, the smoother your transition into the lab will be. Welcome aboard!
+Remember, the more you explore and engage, the smoother your transition into the lab will be. 
+
+## Welcome aboard!
 

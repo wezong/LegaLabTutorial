@@ -2,7 +2,7 @@
 
 **BioHPC** is the high-performance computing group at UT Southwestern. They offer a range of computational resources, workshops, and cloud storage options designed for research labs on campus. Below is a quick guide to get you started with BioHPC.
 
-For detailed documentation, visit the [BioHPC Portal](https://www.utsouthwestern.edu/research/core-facilities/biohpc/).
+For detailed documentation, visit the [BioHPC Portal](https://portal.biohpc.swmed.edu/content/).
 
 ---
 
@@ -10,7 +10,7 @@ For detailed documentation, visit the [BioHPC Portal](https://www.utsouthwestern
 
 To obtain access to BioHPC:
 
-1. **Register for an account** on the BioHPC website.
+1. **Register for an account** on the registration page [BioHPC Registration](https://portal.biohpc.swmed.edu/intranet/accounts/register/).
 2. **Attend the orientation workshop**:
    - Held on the first Wednesday of every month.
    - Sign up by emailing the support team at [biohpc-help@utsouthwestern.edu](mailto:biohpc-help@utsouthwestern.edu).
@@ -59,6 +59,7 @@ Once your account is activated, you will have access to the following directorie
 3. Launch TurboVNC and connect using the provided details. A Linux desktop will appear, preloaded with tools like Matlab, Python, and R.
 
 **Starting Matlab**:
+- Open terminal.
 - Check available versions: `module avail matlab`.
 - Load your preferred version: `module load matlab/[version]`.
 - Start Matlab: `matlab`.
@@ -101,7 +102,7 @@ BioHPC supports parallel computing for faster task execution.
      sbatch /work/[location_of_srunScript.sh]
      ```
 
-For more details, refer to the [BioHPC job submission tutorial](https://www.utsouthwestern.edu/research/core-facilities/biohpc/).
+For more details, refer to the [BioHPC job submission tutorial](https://portal.biohpc.swmed.edu/intranet/sbatch/#/script).
 
 ---
 
@@ -109,9 +110,9 @@ For more details, refer to the [BioHPC job submission tutorial](https://www.utso
 
 To access BioHPC remotely:
 
-1. Download and install **Pulse Secure** ([Download Link](https://www.utsouthwestern.edu/intranet)).
+1. Download and install **GlobalProtect** ([UTSW Instructions](https://www.utsouthwestern.edu/about-us/administrative-offices/information-resources/working-remotely.html)). Download link is on Step 4 of the UTSW page. 
 2. Configure the VPN:
-   - Server Name: `utswra.swmed.edu`.
+   - Server Name: `myutswvpn.swmed.edu`.
    - Log in using your UT Southwestern credentials.
    - Authenticate using Duo Mobile for the secondary password.
 3. Once connected, you can use BioHPC as if on campus.

@@ -36,14 +36,13 @@ By working closely with patients and employing state-of-the-art techniques, we a
 
 ## Getting Started
 
-To get started in the Lega Lab:
+To get started in the Lega Lab begin with the **lab-instructions** folder! In addition, begin to:
 
 1. **Familiarize Yourself with the Lab:**
    - Learn about ongoing projects and their objectives.
    - Review research protocols and datasets relevant to our studies.
 
 2. **Explore Resources:**
-   - Work through the tutorial.
    - Dive into our documentation for detailed guidance on the testing tasks.
    - Browse our code repositories to understand the structure and workflow.
    - Read previous publications to gain insights into the lab’s research focus.

@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the lab! This tutorial aims to provide you with an overview of the lab's activities and help you become a productive and contributing member. We will cover various topics, including:
+Welcome to the lab! This tutorial aims to provide you with an overview of the lab's activities. We will cover various topics, including:
 
 - Setting up BioHPC
 - Running analysis
@@ -13,8 +13,6 @@ Welcome to the lab! This tutorial aims to provide you with an overview of the la
 
 Our lab primarily focuses on **programming**, with a strong emphasis on **Matlab**. While prior experience with Matlab is a plus, it is not mandatory. Many lab members have successfully learned programming from scratch, so don’t worry if you’re new to it. You are expected to learn quickly, and the best way to do that is by diving into coding.
 
-To help you get started, several **template analysis and plotting scripts** are provided on BioHPC. These scripts will guide you through the basics of analysis. Keep in mind:
-
 - Learning programming doesn't come from running code that works; it comes from fixing code that doesn’t.
 - Debugging your code is essential for improving your skills.
 
@@ -23,7 +21,8 @@ To help you get started, several **template analysis and plotting scripts** are 
 ### Getting Started with Matlab
 
 1. **Templates and Resources:**
-   - Use the provided templates on BioHPC to get started with analysis and plotting.
+   - The MatLab website has resources to learn the basics of Matlab. [MatLab Website](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html).
+   - Additionally, there are many YouTube tutorials on learning the basics of MatLab. 
    - Tackle initial challenges with patience; it's part of the learning process.
 
 2. **Helpful Tools in Matlab:**

@@ -4,7 +4,7 @@
 
 # Welcome to the Lega Lab!
 
-We are delighted to have you join our team! This README file will provide you with an overview of the lab, its research focus, and acknowledge the contributions of previous lab members.
+We are delighted to have you join our team! This README file will provide you with an overview of the lab and its research focus.
 
 ---
 

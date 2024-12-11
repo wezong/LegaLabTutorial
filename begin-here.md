@@ -49,7 +49,7 @@ To help you get started, several **template analysis and plotting scripts** are 
 
 ## Feedback and Updates
 
-If you encounter any issues with this tutorial (e.g., unclear instructions, typos), please send an email to **[jui-jui.lin@gmail.com](mailto:jui-jui.lin@gmail.com)**. 
+If you encounter any issues with this tutorial (e.g., unclear instructions, typos), please send an email to **[wesley.dong@utsouthwestern.edu](mailto:wesley.dong@utsouthwestern.edu)**. 
 
 This tutorial is continuously updated to provide a comprehensive guide for new lab members, helping them develop the necessary skills for complex neural signal analyses. 
 

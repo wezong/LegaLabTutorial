@@ -16,7 +16,7 @@ Our lab primarily focuses on **programming**, with a strong emphasis on **Matlab
 To help you get started, several **template analysis and plotting scripts** are provided on BioHPC. These scripts will guide you through the basics of analysis. Keep in mind:
 
 - Learning programming doesn't come from running code that works; it comes from fixing code that doesn’t.
-- Debugging your own code is essential for improving your skills.
+- Debugging your code is essential for improving your skills.
 
 ---
 

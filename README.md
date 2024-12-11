@@ -43,7 +43,8 @@ To get started in the Lega Lab:
    - Review research protocols and datasets relevant to our studies.
 
 2. **Explore Resources:**
-   - Dive into our documentation for detailed guidance on lab activities.
+   - Work through the tutorial.
+   - Dive into our documentation for detailed guidance on the testing tasks.
    - Browse our code repositories to understand the structure and workflow.
    - Read previous publications to gain insights into the lab’s research focus.
 
